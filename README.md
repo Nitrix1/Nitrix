@@ -1,0 +1,2 @@
+# Nitrix
+About me
