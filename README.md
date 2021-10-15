@@ -1,19 +1,10 @@
 # Info
-
-# Contact
-You can contact me via:
-
-*Discord:* [Nitrix#0023](https://discord.com/users/610542865226924032)
-*Business email:* nitrixonlybusiness@gmail.com `SPAM WILL BE IMMEDIATELY BLOCKED`
+[My Website](https://nitrix.site)<br>
+I'm Nitrix, a student developer with experience in HTML, CSS, JavaScript, and Lua.
 
 # What I do
-- I make discord bots with node.js (beginner level)
-- I websites code in css and html (beginner level)
+I honestly just like developing in general. I like coding discord bots, building games and models, and making websites!
 
-# Projects
-
-Unrelated projects: [https://linktr.ee/nitrix__](https:linktr.ee/nitrix__)
-
-# Other
-
-- *thanks to alex_idk (Alex_idk#5252 on discord) for helping me with my (wip) website*
+# Contact
+Discord: Nitrix#0023
+Business email: nitrixonlybusiness@gmail.com
